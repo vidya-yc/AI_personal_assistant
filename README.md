@@ -28,22 +28,6 @@ speech_recognition – Speech-to-Text conversion
 
 datetime, os, webbrowser, smtplib – For core functionalities
 
-Optional: requests, wolframalpha for weather or factual queries
-
-🚀 How to Run
-
-Clone the repository:
-
-git clone https://github.com/yourusername/personal-assistant-python.git
-
-Install required packages:
-
-pip install -r requirements.txt
-
-Run the script:
-
-python assistant.py
-
 🧐 How It Works
 
 The assistant listens via the microphone.
